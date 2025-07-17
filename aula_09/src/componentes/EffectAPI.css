@@ -1,0 +1,29 @@
+.container {
+    width: 1000px;
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+
+    height: 500px;
+}
+
+.table1 {
+    border: 2px solid rgb(223, 17, 17);
+    border-radius: 10px;
+    width: 300px;
+}
+
+.table2 {
+    border: 2px solid rgb(17, 223, 144);
+    border-radius: 10px;
+    width: 300px;
+}
+
+.table3 {
+    border: 2px solid rgb(17, 106, 223);
+    border-radius: 10px;
+    width: 300px;
+}
+
+
+
